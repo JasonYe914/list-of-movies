@@ -1,4 +1,6 @@
 # Logs
+# Ignore api.js everywhere
+**/api.js
 logs
 *.log
 npm-debug.log*
@@ -22,4 +24,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-api.js
